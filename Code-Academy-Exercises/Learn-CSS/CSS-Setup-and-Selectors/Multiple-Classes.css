@@ -1,0 +1,14 @@
+p {
+      font-family: Arial;
+    }
+h1{
+  color: maroon;
+}
+.title{
+  color: teal;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+
+/* I just learned to style elements using multiple classes */
