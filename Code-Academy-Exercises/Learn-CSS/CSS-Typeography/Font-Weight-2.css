@@ -52,6 +52,7 @@ strong {
   position: fixed;
   top: 0;
   width: 100%;
+  font-weight: 900;
 }
 
 .header li {
@@ -156,6 +157,7 @@ a.home {
   a.home {
     display: none;
   }
-}
 
-/* I just learned about the font weight property */
+
+
+/* I just learned about the font weight property using a numerical value */
