@@ -2,7 +2,7 @@
 
 ## When we hit https://www.techtonicgroup.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
 
-The first thing that happens is a request is made from the users browser (the client) to the server, requesting the Techtonic Group web page HTML file using a HTTP request. The users browser reads the techtonicgroup.com in IP address form, the unique location of server hosting the domain. Then our web browser goes to that server and asks for the web page. The server then sends it to the client and the user can navigate the page. It is important to note that the file is not saved on the client's computer. This happens to ensure that every time a user re-navigates to a page, the entire process is redone and the client receives the most up to date page.  
+The first thing that happens is a request is made from the user's browser (the client) to the server, requesting the Techtonic Group web page HTML file using an HTTP request. The user's browser reads the techtonicgroup.com in IP address form, the unique location of the server hosting the domain. Then our web browser goes to that server and asks for the web page. The server then sends it to the client and the user can navigate the page. It is important to note that the file is not saved on the client's computer. This happens to ensure that every time a user re-navigates to a page, the entire process is redone and the client receives the most up to date page.  
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
@@ -19,7 +19,7 @@ The server-side code's main function is to respond to the requests from client s
 
 ## What is the client-side code’s main function?
 
-The clients-side code's main function is to display the web-page correctly by rendering the HTML, CSS, and JS. Additionally, the other main function of the code is make HTTP requests and manipulate content.
+The client-side code's main function is to display the web-page correctly by rendering the HTML, CSS, and JS. Additionally, the other main function of the code is to make HTTP requests and manipulate content.
 
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 
@@ -35,4 +35,4 @@ The period of time when a program or webpage is running. It starts when the page
 
 ## How many instances of the the databases connected to the server application are created?
 
-One instance of the databases connected to the serve application are created.
+One instance of the databases connected to the server application is created.
