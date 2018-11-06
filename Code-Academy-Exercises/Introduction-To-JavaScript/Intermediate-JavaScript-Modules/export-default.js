@@ -14,4 +14,4 @@ Airplane.availableAirplanes = [
 
 export default Airplane;
 
-// I just learned about export default 
+// I just learned about export default
