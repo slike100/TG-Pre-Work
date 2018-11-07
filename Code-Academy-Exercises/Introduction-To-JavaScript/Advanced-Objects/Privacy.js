@@ -9,4 +9,4 @@ const robot = {
 robot._energyLevel = 'high';
 robot.recharge();
 
-// I just learned about privacy in objects. 
+// I just learned about privacy in objects.
