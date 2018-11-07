@@ -6,7 +6,7 @@ The first thing that happens is a request is made from the user's browser (the c
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
-The data reaches the browser after the client requests it from the server. This is a DNS request using the IP address. The server checks the request and then responds back with the data. The data is typically split up into smaller chunks called packets. These packets are sent from the server to the client and then reassembled on in the browser. As mentioned above, the browser will render the HTML, CSS, and JS.
+The data reaches the browser after the client requests it from the server. This is a DNS request using the IP address. The server checks the request and then responds back with the data. The data is typically split up into smaller chunks called packets. These packets are sent from the server to the client and then reassembled in the browser. As mentioned above, the browser will render the HTML, CSS, and JS.
 
 
 ## What code is rendered in the browser?
